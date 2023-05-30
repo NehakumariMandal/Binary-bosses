@@ -1,5 +1,6 @@
 # Binary-bosses
-This is a solution of a Bit N build offline hackathon of GDSC CRCE and GDSC UMIT The Problem Statement is to make a warehouse inventory management system .We are a Binary Bosses team of four second year Computer Engineering students . We completed this problem with features like monitor the goods that enter and exit the premises, calculate the inventory stock value and generate reports We designed components or websites, this is our first offline hackathon challenge to develop our skills.
+
+We have included features like monitor the goods that enter and exit the premises, calculate the inventory stock value and generate reports We designed components or websites, this is our first offline hackathon challenge to develop our skills.
 
 💻Challenge description
 
